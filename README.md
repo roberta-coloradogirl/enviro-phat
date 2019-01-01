@@ -1,1 +1,1 @@
-# enviro-phat
+# Pimoroni enviro-phat from Adafruit for raspberry pi
